@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/s/:token*", "destination": "/index.html" }
+    { "source": "/s/:token*", "destination": "/viewer/index.html" }
   ]
 }
